@@ -1,0 +1,15 @@
+#directories
+
+venv-*/
+.vscode/
+*log*/
+invoices/
+
+#files
+.DS_Store
+*.pdf
+*.xlsx
+*.html
+*.out
+*.zip
+*.json
